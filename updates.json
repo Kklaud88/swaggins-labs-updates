@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-11T18:00:00Z",
+  "publishedAt": "2026-11-11T19:55:00Z",
   "releases": [
     {
       "appId": "powerplant",
@@ -18,15 +18,6 @@
       "sha256": "B87CF8127A582AD36315BF37024986FE55E27EA76BB369FBD62D6C01DE9EF886",
       "releaseDate": "2026-11-11T18:00:00Z",
       "sizeBytes": 508657311,
-      "notesUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/tag/initial-2026.11.11"
-    },
-    {
-      "appId": "wormhole",
-      "version": "0.2.0",
-      "downloadUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/download/initial-2026.11.11/SwagginsWormhole-0.2.0-win-x64.zip",
-      "sha256": "3FD558C1A0E4BE5F0A0C4CF1D03F4B442A060FA037DE322EDD30A18982415E98",
-      "releaseDate": "2026-11-11T18:00:00Z",
-      "sizeBytes": 66973630,
       "notesUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/tag/initial-2026.11.11"
     },
     {

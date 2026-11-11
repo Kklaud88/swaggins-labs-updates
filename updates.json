@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-11-11T18:00:00Z",
+  "releases": [
+    {
+      "appId": "powerplant",
+      "version": "1.1.1",
+      "downloadUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/download/initial-2026.11.11/SwagginsPowerPlant-1.1.1-win-x64.zip",
+      "sha256": "C385E8B235F775A94515F52130AE613CCDE75E6840BC66D71C489F9D77F686D6",
+      "releaseDate": "2026-11-11T18:00:00Z",
+      "sizeBytes": 17845825,
+      "notesUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/tag/initial-2026.11.11"
+    },
+    {
+      "appId": "picklelab",
+      "version": "1.5.0",
+      "downloadUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/download/initial-2026.11.11/Swaggins-Pickle-Lab-1.5.0-win-x64.zip",
+      "sha256": "B87CF8127A582AD36315BF37024986FE55E27EA76BB369FBD62D6C01DE9EF886",
+      "releaseDate": "2026-11-11T18:00:00Z",
+      "sizeBytes": 508657311,
+      "notesUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/tag/initial-2026.11.11"
+    },
+    {
+      "appId": "wormhole",
+      "version": "0.2.0",
+      "downloadUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/download/initial-2026.11.11/SwagginsWormhole-0.2.0-win-x64.zip",
+      "sha256": "3FD558C1A0E4BE5F0A0C4CF1D03F4B442A060FA037DE322EDD30A18982415E98",
+      "releaseDate": "2026-11-11T18:00:00Z",
+      "sizeBytes": 66973630,
+      "notesUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/tag/initial-2026.11.11"
+    },
+    {
+      "appId": "rift",
+      "version": "0.4.0-alpha.1",
+      "downloadUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/download/initial-2026.11.11/SwagginsRift-0.4.0-alpha.1-win-x64.zip",
+      "sha256": "D333E06245C977311EDFE78BCEEF1EE86B6379A80DC3A9F2B349FF82AB9B1795",
+      "releaseDate": "2026-11-11T18:00:00Z",
+      "sizeBytes": 105820687,
+      "notesUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/tag/initial-2026.11.11"
+    },
+    {
+      "appId": "pulse",
+      "version": "0.1.0",
+      "downloadUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/download/initial-2026.11.11/SwagginsPulse-0.1.0-win-x64.zip",
+      "sha256": "0429B449DEAF92C2F318EED867C944AF81968F4A2A28AEA8394B87FDA0C0FA45",
+      "releaseDate": "2026-11-11T18:00:00Z",
+      "sizeBytes": 60787138,
+      "notesUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/tag/initial-2026.11.11"
+    }
+  ]
+}

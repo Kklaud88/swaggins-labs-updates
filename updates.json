@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-11T19:55:00Z",
+  "publishedAt": "2026-11-11T19:56:42Z",
   "releases": [
     {
       "appId": "powerplant",
@@ -37,6 +37,15 @@
       "releaseDate": "2026-11-11T18:00:00Z",
       "sizeBytes": 60787138,
       "notesUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/tag/initial-2026.11.11"
+    },
+    {
+      "appId": "portalhub",
+      "version": "0.9.5",
+      "downloadUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/download/portalhub-v0.9.5/Swaggins-Portal-Hub-0.9.5-hub-update.zip",
+      "sha256": "300DBE8626193F71EE15B0E09372F7EB46E09B10DD149E6B99B1E876041B06A2",
+      "releaseDate": "2026-11-11T19:56:42Z",
+      "sizeBytes": 166564882,
+      "notesUrl": "https://github.com/Kklaud88/swaggins-labs-updates/releases/tag/portalhub-v0.9.5"
     }
   ]
 }
